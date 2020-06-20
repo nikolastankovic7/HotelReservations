@@ -1,0 +1,7 @@
+C:\Users\nikol\OneDrive\Desktop\Uvod u objektno programiranje projekti\Reservations\Reservations\bin\Debug\Reservations.exe.config
+C:\Users\nikol\OneDrive\Desktop\Uvod u objektno programiranje projekti\Reservations\Reservations\bin\Debug\Reservations.exe
+C:\Users\nikol\OneDrive\Desktop\Uvod u objektno programiranje projekti\Reservations\Reservations\bin\Debug\Reservations.pdb
+C:\Users\nikol\OneDrive\Desktop\Uvod u objektno programiranje projekti\Reservations\Reservations\obj\Debug\Reservations.csprojResolveAssemblyReference.cache
+C:\Users\nikol\OneDrive\Desktop\Uvod u objektno programiranje projekti\Reservations\Reservations\obj\Debug\Reservations.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Desktop\Uvod u objektno programiranje projekti\Reservations\Reservations\obj\Debug\Reservations.exe
+C:\Users\nikol\OneDrive\Desktop\Uvod u objektno programiranje projekti\Reservations\Reservations\obj\Debug\Reservations.pdb
